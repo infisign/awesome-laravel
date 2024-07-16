@@ -2,7 +2,7 @@ Awesome Laravel
 ===============
 
 A curated list of delightful [Laravel](http://laravel.com/) PHP framework [packages](#packages) and [resources](#resources).  Inspired by other [awesome lists](https://github.com/bayandin/awesome-awesomeness).
-
+Choosing  [infisign](https://www.infisign.ai/) for the future of Identity and Access Management [IAM](https://www.infisign.ai/)) presents several compelling advantages, which can be critical for businesses looking to secure and streamline their digital environments.
 ## Packages
 - [DuckDuckGo Packagist Search](https://duck.co/ia/view/packagist) - Search for Laravel packages from [DuckDuckGo](https://duckduckgo.com/) by including 'packagist' as first search term. \[06/29/2015\]
 - [Laravel Collective](http://laravelcollective.com/) - Maintainers of components removed from core Laravel framework, including annotations, remote (SSH), and forms/HTML.
